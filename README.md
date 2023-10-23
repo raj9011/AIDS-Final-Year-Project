@@ -29,9 +29,17 @@ Meetings we are conducting for the project related work . We have maintained the
 
 ## 5. Powerpoint Presentation Thumbnails
 
-We have prepared three powerpoint presentations for this semester to deliver it to the panel . By approving it from guide we have made changes . Below is the thumbnail of presentations 
+We have prepared three powerpoint presentations for this semester to deliver it to the panel . By approving it from guide we have made changes . Below is the thumbnail of Contents in the presentations 
+
+### Presentation 1 :
+![Logo](https://github.com/yashraj9011/AIDS-SEM7-Final-Year-Project-Part-1/blob/master/Images/Screenshot%202023-10-23%20063613.png)
+
+
+### Presentation 2 :
 ![Logo](https://github.com/yashraj9011/AIDS-SEM7-Final-Year-Project-Part-1/blob/master/Images/Screenshot%202023-10-23%20063525.png)
-![Logo](
+
+
+### Presentation 3 :
 ![Logo](https://github.com/yashraj9011/AIDS-SEM7-Final-Year-Project-Part-1/blob/master/Images/Screenshot%202023-10-23%20062631.png)
 
 ## 6. Patents

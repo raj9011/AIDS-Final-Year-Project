@@ -30,7 +30,7 @@ Meetings we are conducting for the project related work . We have maintained the
 ## 5. Powerpoint Presentation Thumbnails
 
 We have prepared three powerpoint presentations for this semester to deliver it to the panel . By approving it from guide we have made changes . Below is the thumbnail of presentations 
-
+![Logo](
 
 ## 6. Patents
 

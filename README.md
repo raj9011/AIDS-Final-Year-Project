@@ -6,6 +6,9 @@ Project is prepared by continuously getting monitored by the guide allocated to 
 
 Articles found on internet by browsing the web 
 
+![Logo](https://github.com/yashraj9011/AIDS-SEM7-Final-Year-Project-Part-1/blob/master/Images/Screenshot%202023-10-23%20054111.png)
+
+
 ## 2. Selected Papers
 
 After collecting research papers we finalized some research papers for the project by doing discussion with guide . Eliminated the papers which are not required and unessential .

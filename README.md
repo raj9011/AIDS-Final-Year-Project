@@ -46,6 +46,16 @@ We have prepared three powerpoint presentations for this semester to deliver it 
 
 We have searched patents related to our project on internet , mostly on Intellectual Property Rights website . We found 5 patents relevant to our project . 
 
+Patent 1 (E-Commerce Websites Data related Patent for Customers Business Model
+
+Patent 2 (AI based Online Marketing for Prediction of Product Availaibilty using IoT)
+
+Patent 3 (Meesho shopping Website related patent )
+
+Patent 4 (Smart Marketing System)
+
+Patent 5 (An Investigation on Online Marketing on Consumer Purchase Behaivour)
+
 ## 7. Project Diary and Workbook
 
 Project Workbook and Diary we maintained during the Semester . We updated data accordingly in it .

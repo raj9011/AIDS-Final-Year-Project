@@ -8,6 +8,8 @@ Articles found on internet by browsing the web
 
 ![Logo](https://github.com/yashraj9011/AIDS-SEM7-Final-Year-Project-Part-1/blob/master/Images/Screenshot%202023-10-23%20054111.png)
 
+![Logo](https://github.com/yashraj9011/AIDS-SEM7-Final-Year-Project-Part-1/blob/master/Images/Screenshot%202023-10-23%20054259.png)
+
 
 ## 2. Selected Papers
 

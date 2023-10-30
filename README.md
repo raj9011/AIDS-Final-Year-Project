@@ -1,5 +1,5 @@
 # AIDS-SEM7-Final-Year-Project-Project-Part-1
-## Project is prepared by continuously getting monitored by the guide allocated to the team and following suggestions given by him . 
+## Project is prepared by continuously getting monitored by the guide allocated to the team and following suggestions given by him . We have maintained Diary for feedback and suggestions given by the panel trying to modify the project accordingly .
 
 
 # 1. Articles related to my project 

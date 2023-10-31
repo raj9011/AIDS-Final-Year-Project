@@ -15,19 +15,19 @@ Articles found on internet by browsing the web
 
 After collecting research papers we finalized some research papers for the project by doing discussion with guide . Eliminated the papers which are not required and unessential .
 
-# 2. Codes
+# 3. Codes
 
 Analyzed Some piece of codes and trying to implement accordingly in our project . We are working on SOM neural network in deep and trying to build our model .
 
-# 3. Highlighted Papers
+# 4. Highlighted Papers
 
 We have gone thorough with selected research papers and highlighted some key points and techniques proposed in the paper . 
 
-# 4. Meeting Reportings
+# 5. Meeting Reportings
 
 Meetings we are conducting for the project related work . We have maintained the record of it as well .
 
-# 5. Powerpoint Presentation Thumbnails
+# 6. Powerpoint Presentation Thumbnails
 
 We have prepared three powerpoint presentations for this semester to deliver it to the panel . By approving it from guide we have made changes . Below is the thumbnail of Contents in the presentations 
 
@@ -42,7 +42,7 @@ We have prepared three powerpoint presentations for this semester to deliver it 
 ## Presentation 3 Contents:
 ![Logo](https://github.com/yashraj9011/AIDS-SEM7-Final-Year-Project-Part-1/blob/master/Images/Screenshot%202023-10-23%20062631.png)
 
-# 6. Patents
+# 7. Patents
 
 We have searched patents related to our project on internet , mostly on Intellectual Property Rights website . We found 5 patents relevant to our project . 
 
@@ -56,18 +56,18 @@ We have searched patents related to our project on internet , mostly on Intellec
 
 ## Patent 5 (An Investigation on Online Marketing on Consumer Purchase Behaivour)
 
-# 7. Project Diary and Workbook
+# 8. Project Diary and Workbook
 
 Project Workbook and Diary we maintained during the Semester . We updated data accordingly in it .
 
-# 8. Synopsis
+# 9. Synopsis
 
 Synopsis prepared for the project .
 
 
 
 
-# 9. System Architecture
+# 10. System Architecture
 
 
 Precise System Architecture

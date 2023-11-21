@@ -73,3 +73,5 @@ Synopsis prepared for the project .
 
 Precise System Architecture
 
+![Link](https://github.com/yashraj9011/AIDS-SEM-7-Final-Year-Project-Part-1/blob/master/Images/sys.drawio.png)
+
